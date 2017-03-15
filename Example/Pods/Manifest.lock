@@ -1,0 +1,16 @@
+PODS:
+  - iOSImageEditor (0.1.0)
+
+DEPENDENCIES:
+  - iOSImageEditor (from `../`)
+
+EXTERNAL SOURCES:
+  iOSImageEditor:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSImageEditor: 90375107354c3643d6b73aa16ec8bbf7eeb26f97
+
+PODFILE CHECKSUM: d620440da53af5be2214a166f65c5c96d2d4d6ab
+
+COCOAPODS: 1.0.1

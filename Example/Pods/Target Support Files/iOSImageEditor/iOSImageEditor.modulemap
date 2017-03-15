@@ -1,0 +1,6 @@
+framework module iOSImageEditor {
+  umbrella header "iOSImageEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
