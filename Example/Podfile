@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSImageEditor_Example' do
+  pod 'iOSImageEditor', :path => '../'
+
+  target 'iOSImageEditor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
